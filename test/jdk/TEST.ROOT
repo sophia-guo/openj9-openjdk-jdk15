@@ -79,7 +79,7 @@ requires.properties= \
     release.implementor
 
 # Unset Hotspot VMProps ProdDefns requires class and replace with optional OpenJ9 class
-requires.extraPropDefns = [../../closed/test/jtreg-ext/requires/OpenJ9PropsExt.java]
+#requires.extraPropDefns = [../../closed/test/jtreg-ext/requires/OpenJ9PropsExt.java]
 
 # Minimum jtreg version
 requiredVersion=5.1 b1
